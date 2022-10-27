@@ -1,0 +1,11 @@
+#errorMsg {
+    display: none;
+    color: red;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bg-clrPicker{
+    background-color: #212529;
+    color: #fff;
+}

@@ -1,0 +1,12 @@
+.container-fluid{
+    margin-left: 1em;
+}
+
+a span {
+    margin-left: 0.7em;
+}
+
+.bg-clrPicker{
+    background-color: #212529;
+    
+}

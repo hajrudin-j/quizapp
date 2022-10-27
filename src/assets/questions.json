@@ -1,0 +1,172 @@
+{
+    "questions": [
+        {
+            "questionText": "What is Lorem Ipsum?",
+            "options": [
+                {
+                    "text": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+                },
+                {
+                    "text": "Lorem Ipsum is simply dummy text. ",
+                    "correct" : true
+                },
+                {
+                    "text": "Lorem Ipsum passages, and more recently with desktop publishing"
+                },
+                {
+                    "text": "Lorem Ipsum has been the industry's standard dummy text "
+                }
+                
+            ], 
+            "explanation": "This is explanation for question one!"
+        },
+        {
+            "questionText": "Why do we use it?",
+            "options": [
+                {
+                    "text": "22",
+                    "correct" : true
+                },
+                {
+                    "text": "11"
+                    
+                },
+                {
+                    "text": "100"
+                },
+                {
+                    "text": "66"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question two!"
+        },
+        {
+            "questionText": "Pitanje 3: Broj 3?",
+            "options": [
+                {
+                    "text": "222"
+                },
+                {
+                    "text": "111"
+                    
+                },
+                {
+                    "text": "1000",
+                    "correct" : true
+                },
+                {
+                    "text": "666"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question three!"
+        },
+        {
+            "questionText": "Pitanje 4: Broj 4?",
+            "options": [
+                {
+                    "text": "2000"
+                },
+                {
+                    "text": "10000"
+                    
+                },
+                {
+                    "text": "100",
+                    "correct" : true
+                },
+                {
+                    "text": "6666"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question four!"
+        },
+        {
+            "questionText": "Where does it come from?",
+            "options": [
+                {
+                    "text": "The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.."
+                },
+                {
+                    "text": "The standard chunk of Lorem Ipsum used since the 1500s"
+                    
+                },
+                {
+                    "text": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of e Finibus Bonorum et Malorum ",
+                    "correct" : true
+                },
+                {
+                    "text": "atin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question four!"
+        },
+        {
+            "questionText": "Pitanje 6: Broj 6?",
+            "options": [
+                {
+                    "text": "222"
+                },
+                {
+                    "text": "111"
+                    
+                },
+                {
+                    "text": "1000",
+                    "correct" : true
+                },
+                {
+                    "text": "666"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question three!"
+        },
+        {
+            "questionText": "Where can I get some?",
+            "options": [
+                {
+                    "text": "If you are going to use a passage"
+                },
+                {
+                    "text": "The generated Lorem Ipsum is therefore always free from repetition"
+                    
+                },
+                {
+                    "text": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "correct" : true
+                },
+                {
+                    "text": "There are many variations of passages of Lorem Ipsum available"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question three!"
+        },
+        {
+            "questionText": "Pitanje 8- POSLJEDNJE:?",
+            "options": [
+                {
+                    "text": "0"
+                },
+                {
+                    "text": "01"
+                    
+                },
+                {
+                    "text": "88",
+                    "correct" : true
+                },
+                {
+                    "text": "02"
+                }
+                
+            ], 
+            "explanation": "This is explanation for question last!"
+        }
+        
+    ]
+}

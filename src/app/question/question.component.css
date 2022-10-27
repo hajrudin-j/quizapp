@@ -1,0 +1,42 @@
+.card-logo div:nth-child(2){
+    margin-left: 2em;
+   
+}
+
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.bg-black{
+    background-color: #212529;  
+}
+
+li {
+    list-style-type: none;
+    cursor:pointer;
+    margin: 10px 0;
+    margin-right: 25px;
+}
+
+
+li .card:hover {
+    /* background-color: #4169E1 ; */
+    border: 1px solid blue;
+}
+
+.btnDone{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color: #212529;
+    border-radius: 10px;
+    
+    padding: 10px;
+}
+
+.card-bottom{
+    margin: 0 10px
+}
